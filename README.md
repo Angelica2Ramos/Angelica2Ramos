@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angelica2Ramos
+- 👋 Hi, I’m @Angelica Ramos
 - 👀 I’m interested in building a career in AWSomeness!
 - 🌱 I’m currently learning AWS re/Start Cloud Computing with Per Scholas.
 - 💞️ I’m looking to collaborate on projects using AWS.
